@@ -1,0 +1,53 @@
+{
+    "name": "Puja Rashmi",
+    "avatar": "/my.jpg",
+    "links": [
+        {
+            "title":"My Personal site",
+            "href": "/",
+            "image": "/my2.jpg"
+        },
+        {
+            "title":"Food Site",
+            "href": "/",
+            "image": "/food.jpg"
+        },
+        {
+            "title":"Travel blog",
+            "href": "/",
+            "image": "/travel.jpg"
+        },
+        {
+            "title":"Art and Craft",
+            "href": "/",
+            "image": "/art.jpg"
+        },
+        {
+            "title":"Baby Care",
+            "href": "/",
+            "image": "/baby.jpg"
+        },
+        {
+            "title":"Vercel.com",
+            "href": "https://vercel.com"
+        }
+    ],
+    "socials": [
+        {
+            "title":"Instagram",
+            "href": "https://www.instagram.com/" 
+        },
+        {
+            "title":"Facebook",
+            "href": "https://www.facebook.com/" 
+        },
+        {
+            "title":"Youtube",
+            "href": "https://www.youtube.com/" 
+        },
+        {
+            "title":"Github",
+            "href": "https://github.com/" 
+        }
+    ]
+}
