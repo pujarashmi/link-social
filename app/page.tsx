@@ -41,7 +41,7 @@ function LinkCard({
 export default async function Home() {
 
   return (
-    <div className='flex items-center flex-col mx-auto w-full justify-center mt-16 px-8'>
+    <div className='flex items-center flex-col mx-auto w-full justify-center mt-36 px-8'>
       <Image
         priority
         className='rounded-full'
